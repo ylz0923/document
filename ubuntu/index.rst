@@ -3,4 +3,4 @@
     :numbered: 2
 
 
-    ubuntu/install.md
+    install.md
